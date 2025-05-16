@@ -1,5 +1,6 @@
 {
   "name": "ch05_supabase",
+  "homepage": "https://huiwon013.github.io/smoothies/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
